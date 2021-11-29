@@ -2,11 +2,11 @@
 
 ## Java Swing Components
 
-- [ ] JButton class
-- [ ] JLabel class
-- [ ] JTextField class
-- [ ] JTextArea class
-- [ ] JPasswordField class
+- [x] [JButton class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jbutton)
+- [x] [JLabel class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jlabel)
+- [x] [JTextField class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jtextfieldjpassowordfield--jtextarea)
+- [x] [JTextArea class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jtextfieldjpassowordfield--jtextarea)
+- [x] [JPasswordField class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jtextfieldjpassowordfield--jtextarea)
 - [ ] JCheckBox class
 - [ ] JRadioButton class
 - [ ] JComboBox class
