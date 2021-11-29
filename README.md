@@ -7,7 +7,7 @@
 - [x] [JTextField class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jtextfieldjpassowordfield--jtextarea)
 - [x] [JTextArea class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jtextfieldjpassowordfield--jtextarea)
 - [x] [JPasswordField class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jtextfieldjpassowordfield--jtextarea)
-- [ ] JCheckBox class
+<!-- - [ ] JCheckBox class
 - [ ] JRadioButton class
 - [ ] JComboBox class
 - [ ] JTable class
@@ -46,7 +46,7 @@
 - [ ] BorderLayout
 - [ ] GridLayout
 - [ ] FlowLayout
-- [ ] CardLayout
+- [ ] CardLayout -->
 
 
 
