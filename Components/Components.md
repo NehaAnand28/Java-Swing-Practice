@@ -22,3 +22,9 @@ This is an example for [JTextField, JPassowordField & JTextArea class](textField
 This is an example for [JCheckBox class](checkbox.java)
 
 ![image](https://user-images.githubusercontent.com/70203777/143993094-25ae6dc8-6f52-48fa-8963-92bd6fb6fd5a.png)
+
+## JRadioButton
+
+This is an example for [JRadioButton class](radiobutton.java)
+
+![image](https://user-images.githubusercontent.com/70203777/143996106-0a96a0db-2469-4a27-be93-9c0ac34ee675.png)

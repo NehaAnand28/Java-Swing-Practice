@@ -28,14 +28,15 @@ class checkbox {
         
 
         panel.add(header_text);
-        //adding checkboxes to frame
+        //adding checkboxes to panel
         panel.add(c1);
         panel.add(c2);
         panel.add(c3);
         panel.add(c4);
+        //adding panel to frame
         frame.add(panel);
 
-        //adding ItemListeners to checkbox
+        //adding ItemListeners to each checkbox
         c1.addItemListener(new ItemListener() {
             public void itemStateChanged(ItemEvent e){
                 header_text.setText("You "+ (e.getStateChange() == 1? "checked ":"unchecked ") + "English");
