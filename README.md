@@ -7,9 +7,10 @@
 - [x] [JTextField class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jtextfieldjpassowordfield--jtextarea)
 - [x] [JTextArea class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jtextfieldjpassowordfield--jtextarea)
 - [x] [JPasswordField class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jtextfieldjpassowordfield--jtextarea)
-<!-- - [ ] JCheckBox class
+- [x] [JCheckBox class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jcheckbox)
 - [ ] JRadioButton class
 - [ ] JComboBox class
+<!--
 - [ ] JTable class
 - [ ] JList class
 - [ ] JOptionPane class

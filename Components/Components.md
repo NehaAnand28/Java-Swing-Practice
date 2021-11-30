@@ -16,3 +16,9 @@ This is an example for [JLabel class](label.java)
 This is an example for [JTextField, JPassowordField & JTextArea class](textField.java)
 
 ![image](https://user-images.githubusercontent.com/70203777/143809231-4ef73fb2-fdf8-4cc4-bbb6-40ae41d5a8ce.png)
+
+## JCheckBox
+
+This is an example for [JCheckBox class](checkbox.java)
+
+![image](https://user-images.githubusercontent.com/70203777/143993094-25ae6dc8-6f52-48fa-8963-92bd6fb6fd5a.png)
