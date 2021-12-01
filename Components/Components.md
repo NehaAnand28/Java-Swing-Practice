@@ -28,3 +28,9 @@ This is an example for [JCheckBox class](checkbox.java)
 This is an example for [JRadioButton class](radiobutton.java)
 
 ![image](https://user-images.githubusercontent.com/70203777/143996106-0a96a0db-2469-4a27-be93-9c0ac34ee675.png)
+
+## JComboBox
+
+This is an example for [JComboBox class](combobox.java)
+
+![image](https://user-images.githubusercontent.com/70203777/144227212-f4796a7c-cf3d-40a8-96ed-cfca6db5b0e1.png)
