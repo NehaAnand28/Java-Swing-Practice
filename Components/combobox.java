@@ -17,7 +17,8 @@ class combobox extends JFrame{
 
         //creates a combo box of languages
         String languages[] = {"English","French","German","Spanish","Greek"};
-        box = new JComboBox(languages);
+        box = new JComboBox<String>(languages);
+        box.addItem("Portuguese");
 
         //a button to display selected language
         show = new JButton("Show");

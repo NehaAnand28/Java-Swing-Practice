@@ -33,4 +33,4 @@ This is an example for [JRadioButton class](radiobutton.java)
 
 This is an example for [JComboBox class](combobox.java)
 
-![image](https://user-images.githubusercontent.com/70203777/144227212-f4796a7c-cf3d-40a8-96ed-cfca6db5b0e1.png)
+![image](https://user-images.githubusercontent.com/70203777/144403172-eb5766fd-087d-4e22-b32f-c7a6e8bb2a7f.png)
