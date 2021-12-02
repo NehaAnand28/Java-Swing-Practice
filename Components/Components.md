@@ -8,6 +8,7 @@ This is an example for [JButton class](button.java)
 ## JLabel
 
 This is an example for [JLabel class](label.java)
+![144403681-2176895e-b478-46b9-a0f0-62d1d94831ce](https://user-images.githubusercontent.com/70203777/144403963-be2765d4-394c-4b8f-96ad-2cdcb9f8f218.png)
 
 ![image](https://user-images.githubusercontent.com/70203777/143731542-e624aa0d-f38b-4ec9-a996-548adab3da94.png)
 
@@ -33,4 +34,4 @@ This is an example for [JRadioButton class](radiobutton.java)
 
 This is an example for [JComboBox class](combobox.java)
 
-![image](https://user-images.githubusercontent.com/70203777/144403172-eb5766fd-087d-4e22-b32f-c7a6e8bb2a7f.png)
+![image](https://user-images.githubusercontent.com/70203777/144403172-eb5766fd-087d-4e22-b32f-c7a6e8bb2a7f.png) ![image](https://user-images.githubusercontent.com/70203777/144403681-2176895e-b478-46b9-a0f0-62d1d94831ce.png)
