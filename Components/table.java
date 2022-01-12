@@ -17,7 +17,7 @@ class table{
 
         //Initializing JTable
         tb = new JTable(rows,column);
-        tb.setBounds(30, 40, 500, 300);`
+        tb.setBounds(30, 40, 500, 300);  
 
         //Adding JTable to Scrollpane
         JScrollPane scroll = new JScrollPane(tb);
