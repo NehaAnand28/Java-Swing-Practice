@@ -10,8 +10,9 @@
 - [x] [JCheckBox class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jcheckbox)
 - [x] [JRadioButton class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jradiobutton)
 - [x] [JComboBox class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jcombobox)
+- [x] [JTable class](https://github.com/NehaAnand28/Java-Swing-Practice/blob/master/Components/Components.md#jtable)
 <!--
-- [ ] JTable class
+
 - [ ] JList class
 - [ ] JOptionPane class
 - [ ] JScrollBar class

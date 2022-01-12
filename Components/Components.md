@@ -35,3 +35,9 @@ This is an example for [JRadioButton class](radiobutton.java)
 This is an example for [JComboBox class](combobox.java)
 
 ![image](https://user-images.githubusercontent.com/70203777/144403172-eb5766fd-087d-4e22-b32f-c7a6e8bb2a7f.png) ![image](https://user-images.githubusercontent.com/70203777/144403681-2176895e-b478-46b9-a0f0-62d1d94831ce.png)
+
+## JTable
+
+This is an example for [JTable class](table.java)
+
+![image](https://user-images.githubusercontent.com/70203777/149122702-a83799d3-473d-4f23-a9f8-298fb72d2d5e.png)
