@@ -1,12 +1,9 @@
 import java.awt.Font;
-import java.awt.Color;
-import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-import javax.swing.JTextField;
 import javax.swing.JPasswordField;
 import javax.swing.JTextArea;
-import javax.swing.SwingConstants;
+import javax.swing.JTextField;
 
 class textField {
 

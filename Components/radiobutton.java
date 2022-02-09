@@ -1,11 +1,13 @@
-import javax.swing.JFrame;
-import javax.swing.JRadioButton;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.BoxLayout;
 import javax.swing.ButtonGroup;
 import javax.swing.JButton;
+import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import javax.swing.BoxLayout;
-import java.awt.event.*;  
+import javax.swing.JRadioButton;  
 
 class radiobutton implements ActionListener{
     JFrame frame;
@@ -54,6 +56,7 @@ class radiobutton implements ActionListener{
         //This method sets the width and height of the frame
         frame.setSize(400,400);
         frame.setVisible(true);
+        frame.setLayout(null);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     }

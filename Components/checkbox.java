@@ -1,10 +1,11 @@
-import javax.swing.JFrame;
-import javax.swing.JCheckBox;
-import javax.swing.JButton;
-import javax.swing.JLabel;
-import javax.swing.JPanel;
+import java.awt.event.ItemEvent;
+import java.awt.event.ItemListener;
+
 import javax.swing.BoxLayout;
-import java.awt.event.*;  
+import javax.swing.JCheckBox;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;  
 
 class checkbox {
     JFrame frame;
@@ -17,6 +18,7 @@ class checkbox {
         frame = new JFrame();
         //Creating instance of JPanel
         panel = new JPanel();
+        //Creating instance of JLabel
         header_text = new JLabel();
         
         //creating checkboxes
